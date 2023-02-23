@@ -2,6 +2,8 @@
 
 The ChatGPT-KNIME Connector is a Python package that allows you to integrate OpenAI's ChatGPT and KNIME Analytics Platform for drug design research. It includes functions for generating molecules with ChatGPT and screening them with a KNIME workflow, as well as a function for outputting data to KNIME.
 
+![chat-gpt](https://user-images.githubusercontent.com/91246296/221000655-d7ae7c48-73a0-467a-9bcd-35b2fdafdcdf.png)
+
 ## Requirements
 
     Python 3
